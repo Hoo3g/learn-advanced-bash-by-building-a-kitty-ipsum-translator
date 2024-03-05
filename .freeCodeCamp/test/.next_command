@@ -53,3 +53,4 @@ echo Hoang
 echo Hoang
 echo Hoang
 echo Hoang
+./script.sh < name.txt
