@@ -41,3 +41,4 @@ echo $NAME
 __vsc_prompt_cmd_original
 echo HOANG
 echo $NAME
+cat
