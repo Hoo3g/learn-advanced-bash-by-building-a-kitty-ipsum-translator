@@ -43,3 +43,4 @@ echo HOANG
 echo $NAME
 cat
 cat name.txt
+cat < name.txt
