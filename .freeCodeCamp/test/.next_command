@@ -45,3 +45,4 @@ cat
 cat name.txt
 cat < name.txt
 echo hoang
+touch script.sh
