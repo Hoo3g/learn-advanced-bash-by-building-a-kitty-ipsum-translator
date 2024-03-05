@@ -42,3 +42,4 @@ __vsc_prompt_cmd_original
 echo HOANG
 echo $NAME
 cat
+cat name.txt
